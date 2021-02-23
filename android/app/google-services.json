@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121610016702",
+    "project_id": "firebasnotificationapp",
+    "storage_bucket": "firebasnotificationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121610016702:android:62da7c56492fe8fe7f4bef",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121610016702-fsbnc1of90apio8u1lqt8sassl0ima9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXN9q4v7geaxALhVhwEkE3E1p6P77KWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121610016702-fsbnc1of90apio8u1lqt8sassl0ima9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
